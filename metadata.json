@@ -1,0 +1,6 @@
+{
+  "name": "The New York Times",
+  "description": "Replica of The New York Times Top Stories page with full typography, responsive layout, interactive sections, and article views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
